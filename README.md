@@ -1,6 +1,7 @@
 # fileparser
 
 A simple tool for searching for a string and then searching for a second string after the first one is found. 
+Written in C++. Python and for people who love large executables, Swift.  All versions tested on mac OS High Sierra Only
 
 [Swift Version](https://github.com/adamb3ll/fileparser_swift)
 
